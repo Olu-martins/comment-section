@@ -1,0 +1,27 @@
+body{
+    margin: 0 auto;    
+    width: 70%;
+    background: rgb(14, 156, 238);
+}
+
+#form, #tweets{
+    color: white;
+    font-weight: 600;
+}
+
+#post{
+    width: 35%;
+    color: whitesmoke;
+}
+
+.newtweet{
+    background: rgb(245, 245, 245);
+    width: 40%;
+    height: fit-content;
+    border-radius: 0.5rem;
+    border: 1px solid whitesmoke;
+    padding: 0.5rem;
+    color: rgb(53, 53, 53);
+    font-weight: lighter;
+}
+
